@@ -1,0 +1,55 @@
+HELP.md
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+### VS Code ###
+.vscode/
+/.idea/
+/.mvn/
+/src/
+/src/main/
+/src/main/java/
+/src/main/java/com/example/springbootexplored/
+/src/main/java/com/example/springbootexplored/student/
+/src/main/java/com/example/springbootexplored/student/Student.java
+/src/main/java/com/example/springbootexplored/student/StudentController.java
+/src/main/java/com/example/springbootexplored/student/StudentService.java
+/src/main/java/com/example/springbootexplored/SpringBootExploredApplication.java
+/src/main/resources/
+/src/main/resources/static/
+/src/main/resources/templates/
+/src/main/resources/application.properties
+/src/test/
+/target/
+/.gitignore
+/HELP.md
+/mvnw
+/mvnw.cmd
+/pom.xml
